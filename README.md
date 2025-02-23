@@ -1,3 +1,3 @@
-# Housing-Affordability-in-US-Metro-Areas
+# Housing Affordability in US Metro Areas
 
 Overview
