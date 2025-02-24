@@ -19,4 +19,8 @@ This analysis aims to answer the following questions:
 
 #### Housing Market Data
 
-The dataset used in this analysis is sourced from Realtor.com and spans from July 2016 to January 2025, with monthly updates. It includes key housing market indicators such as mean and median listing prices, total listing counts, and price per square foot, and more, all broken down by metro area. Click [here](https://www.realtor.com/research/data/) to view the datasource.
+The dataset used in this analysis is sourced from Realtor.com and spans from July 2016 to January 2025, with monthly updates. It includes key housing market indicators such as mean and median listing prices, total listing counts, and price per square foot, and more, all broken down by metro area. Click [here](https://www.realtor.com/research/data/) to view the data source.
+
+#### Population Data
+
+The population data used is from the 2020 U.S. Census and annual estimates from 2021 to 2023, broken down by metro area. The data source is from census.gov and can be found [here](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html).
