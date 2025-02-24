@@ -7,3 +7,16 @@ By Alexander Kasternakis
 This project explores housing data in the top 100 metro areas in the U.S. to analyze changes in housing affordability over time. Key metrics include real estate market trends, population growth, and per capita income. By examining these factors, we provide insights into how economic and demographic shifts have influenced the housing market.
 
 ## Objective
+
+This analysis aims to answer the following questions:
+
+1. How has the housing market changed in different metros over time?
+2. How has population growth affected the housing market?
+3. Are fluctuations in housing prices keeping up with rising income?
+4. Which metro areas and regions have experienced the most significant shifts in affordability?
+
+## Introducing the Data
+
+#### Housing Market Data
+
+The dataset used in this analysis is sourced from Realtor.com and spans from July 2016 to January 2025, with monthly updates. It includes key housing market indicators such as mean and median listing prices, total listing counts, and price per square foot, and more, all broken down by metro area. Click [here](https://www.realtor.com/research/data/) to view the datasource.
