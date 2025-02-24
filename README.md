@@ -24,3 +24,7 @@ The dataset used in this analysis is sourced from Realtor.com and spans from Jul
 #### Population Data
 
 The population data used is from the 2020 U.S. Census and annual estimates from 2021 to 2023, broken down by metro area. The data source is from census.gov and can be found [here](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html).
+
+#### Income Data
+
+Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
