@@ -23,7 +23,7 @@ The dataset used in this analysis is sourced from Realtor.com and spans from Jul
 
 #### Population Data
 
-The population data used is from the 2020 U.S. Census and annual estimates from 2021 to 2023, broken down by metro area. The data source is from census.gov and can be found [here](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html).
+The population data used is from the U.S. Census and comtains annual estimates from 2016 to 2023, broken down by metro area. The data source is from census.gov and can be found [here](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html) for 2016-2019 data, and [here](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html) for 2020-2023 data.
 
 #### Income Data
 
