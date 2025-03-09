@@ -28,3 +28,7 @@ The population data used is from the U.S. Census and comtains annual estimates f
 #### Income Data
 
 Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
+
+## Key Insights
+
+SQL was used the setup and analyze the data. Click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/table_setup.sql) to view the SQL code for setting up the tables, and click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/analysis.sql) to view the queries used to analyze the data.
