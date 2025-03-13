@@ -19,7 +19,7 @@ This analysis aims to answer the following questions:
 
 #### Housing Market Data
 
-The dataset used in this analysis is sourced from Realtor.com and spans from July 2016 to January 2025, with monthly updates. It includes key housing market indicators such as mean and median listing prices, total listing counts, and price per square foot, and more, all broken down by metro area. Click [here](https://www.realtor.com/research/data/) to view the data source.
+The dataset used in this analysis is sourced from Realtor.com and spans from July 2016 to January 2025, with monthly updates. It includes key housing market indicators such as median and average listing prices, total listing counts, price per square foot, and medain days on market, all broken down by metro area. Click [here](https://www.realtor.com/research/data/) to view the data source.
 
 #### Population Data
 
@@ -32,3 +32,8 @@ Income data used in this analysis is from the Federal Reserve Bank of St. Louis.
 ## Key Insights
 
 SQL was used the setup and analyze the data. Click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/table_setup.sql) to view the SQL code for setting up the tables, and click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/analysis.sql) to view the queries used to analyze the data.
+
+### Housing Market Trends
+
+- The average median listing price in the top 100 metros has increased **48%** from July 2016 to January 2025.
+- **Boise** has expierenced the greatest increase in housing prices, followed by **Syracuse** and **Spokane**
