@@ -35,17 +35,23 @@ SQL was used the setup and analyze the data. Click [here](https://github.com/Xan
 
 ### Housing Market Trends
 
-The dashboard highlights overall trends in U.S. housing prices, showing a **significant increase in median and average listing prices across most metros since 2016**. The line charts reveal high volatility during the pandemic years (2020–2023), with sharp price spikes followed by recent stabilization. Price growth appears to be high in the **Mountain West**, parts of the **Northeast**, and **Tennessee**. Conversely, areas with lower price growth include the **Deep South**, **Florida**, **coastal California**, and **East Texas**.
+The dashboard highlights overall trends in U.S. housing prices from July 2016 to January 2025, showing a **significant increase in median and average listing prices across most metros since 2016**. The line charts reveal high volatility during the pandemic years (2020–2023), with sharp price spikes followed by recent stabilization. Price growth appears to be high in the **Mountain West**, parts of the **Northeast**, and **Tennessee**. Conversely, areas with lower price growth include the **Deep South**, **Florida**, **coastal California**, and **East Texas**.
 
 ![alt text](Housing-Market-Trends-Dashboard.png)
 
-*This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingMarketTrends_17415530705220/HousingData#1) to view the full interactive dashboard.*
+This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingMarketTrends_17415530705220/HousingData#1) to view the full interactive dashboard.
 
-- The average median listing price in the top 100 metros has increased by **48%** from July 2016 to January 2025.
+- The average median listing price in the top 100 metros has increased by **48%**.
 - **Boise, ID** saw the highest housing price growth among the top 100 metros, leading in **median listing price (+120%)** and **median price per square foot (+131%)**, while ranking 2nd in **average listing price growth (+134%)** since 2016. **Knoxville, TN, Syracuse, NY, and Spokane, WA** also experienced significant price growth, each ranking in the **top 5 for at least two of the three key housing price metrics**.
 - **Honolulu, HI** is the only metro among the top 100 to experience a **decline in median listing price (-1.6%)**, along with the **lowest average listing price growth (+0%)**, and **median price per square foot growth (+17%)**. **San Francisco, CA**, **Bridgeport, CT**, and the **Texas Triangle metros** also saw relatively modest housing price growth.
 - Generally, total listings grew the fastest in the **Southeast**, and the slowest in the **Northeast**, with the metros in the **West** seeing mixed trends.
 
 ### Housing Trends & Population Growth
 
+The dashboard compares housing prices and the growth of housing prices to population growth from 2017 to 2023. While higher population growth generally leads to higher increases in home prices, this correlation is not strict. Some rapidly growing metropolitan areas have experienced modest growth in home prices.
 
+![alt text](House-Trends-Population.png)
+
+This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingTrendsPopulationGrowth/HousingTrendsPopulationGrowth) to view the full interactive dashboard.
+
+*
