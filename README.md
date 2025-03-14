@@ -71,8 +71,10 @@ This dashboard was made in Tableau, click [here](https://public.tableau.com/app/
 - **Toledo, OH**, and **Pittsburgh, PA** are the most affordable metros, with affordability indexes of **3.44**. Other metros in the **Midwest** round off the top 5 with affordability indexes below **4.0**.
 - The least affordable metro is **Los Angeles, CA**, with an affordability index of **14.77**. Every metro in **Southern California** ranks in the **top 5 least affordable metros**, all with affordability indexes above **11.0**. The only non-California metro in the top 5 is **Honolulu, HI**, with an index of **11.83**.
 - The affordability index of **Boise, ID** increased by **3.19**, the most in the U.S. with **Spokane, WA**, **Knoxville, TN**, and **Chattanooga, TN** becoming significantly less affordable as well. Conversely, **Honolulu, HI** has the greatest increase in affordability, with its affordability index **decreasing by 1.87**. The **San Francisco Bay Area** and the **Texas Triangle** also saw **significant decreases in their affordability indexes**.
-- In general, there is a **strong relation between the growth of housing prices and the change in affordability index**, implying that **housing prices are more volatile than per-capita income**.
+- In general, there is a **strong correlation between the growth of housing prices and the change in affordability index**, implying that **housing prices are more volatile than per-capita income**.
 
 ### Regional Shifts in Housing Affordability
 
+![alt text](House-Trends-Region.png)
 
+This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/RegionalShiftsinHousingAffordability/Dashboard4) to view the full interactive dashboard.
