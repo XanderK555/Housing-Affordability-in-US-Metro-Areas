@@ -54,4 +54,11 @@ The dashboard compares housing prices and the growth of housing prices to popula
 
 This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingTrendsPopulationGrowth/HousingTrendsPopulationGrowth) to view the full interactive dashboard.
 
-*
+*Some metros, notably New Haven, CT and New Orleans, LA, appear to have steep declines in population between 2019 and 2020, due to discrepancies between yearly estimates and the 2020 census.*
+
+- The metros with the highest house prices expierenced **population decline or very little growth**, with every metro having a median listing price greater than **$650,000** expierencing **less than 1% population growth** between 2017 and 2023.
+- The metros of **Grand Rapids, MI**, **Seattle, WA**, **Portland, OR**, and **Buffalo, NY** have **total listings growing at least 10 times faster than population growth**, making them the areas where **housing supply is outpacing demand the most**.
+- Overall, housing supply **decreased by 24%**, and most metros are expierencing **population growth** and **decreasing housing supply**, indicating a **tighter housing market**.
+
+### Housing Trends & Income Growth
+
