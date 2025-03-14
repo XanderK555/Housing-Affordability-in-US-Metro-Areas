@@ -4,7 +4,7 @@ By Alexander Kasternakis
 
 ## Overview
 
-This project explores housing data in the top 100 metro areas in the U.S. to analyze changes in housing affordability over time. Key metrics include real estate market trends, population growth, and per capita income. By examining these factors, we provide insights into how economic and demographic shifts have influenced the housing market.
+This project explores housing data in the top 100 metro areas in the U.S. to analyze changes in housing affordability over time. Key metrics include housing market trends, population growth, and per-capita income. By examining these factors, we provide insights into how economic and demographic shifts have influenced the housing market.
 
 ## Objective
 
@@ -27,7 +27,7 @@ The population data used is from the U.S. Census and comtains annual estimates f
 
 #### Income Data
 
-Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
+Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per-capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
 
 ## Key Insights
 
@@ -61,4 +61,18 @@ This dashboard was made in Tableau, click [here](https://public.tableau.com/app/
 - Overall, housing supply **decreased by 24%**, and most metros are expierencing **population growth** and **decreasing housing supply**, indicating a **tighter housing market**.
 
 ### Housing Trends & Income Growth
+
+The dashboard compares **median listing price** and **per-capita income** from **2016 to 2023** using the **affordability index** (median listing price divided by per-capita income). A **lower affordability index** means a metro is more affordable, while a **higher affordability index** indicates a less affordable metro. The average affordability index of the top 100 U.S. metros is **6.88**, and since 2016, the average affordability index has **increased by 0.80**, indicating that, in general, **rising housing prices are gradually outpacing income growth**.
+
+![alt text](House-Trends-Income.png)
+
+This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingTrendsIncomeGrowth/HousingTrendsvs_IncomeGrowth) to view the full interactive dashboard.
+
+- **Toledo, OH**, and **Pittsburgh, PA** are the most affordable metros, with affordability indexes of **3.44**. Other metros in the **Midwest** round off the top 5 with affordability indexes below **4.0**.
+- The least affordable metro is **Los Angeles, CA**, with an affordability index of **14.77**. Every metro in **Southern California** ranks in the **top 5 least affordable metros**, all with affordability indexes above **11.0**. The only non-California metro in the top 5 is **Honolulu, HI**, with an index of **11.83**.
+- The affordability index of **Boise, ID** increased by **3.19**, the most in the U.S. with **Spokane, WA**, **Knoxville, TN**, and **Chattanooga, TN** becoming significantly less affordable as well. Conversely, **Honolulu, HI** has the greatest increase in affordability, with its affordability index **decreasing by 1.87**. The **San Francisco Bay Area** and the **Texas Triangle** also saw **significant decreases in their affordability indexes**.
+- In general, there is a **strong relation between the growth of housing prices and the change in affordability index**, implying that **housing prices are more volatile than per-capita income**.
+
+### Regional Shifts in Housing Affordability
+
 
