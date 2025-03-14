@@ -35,5 +35,9 @@ SQL was used the setup and analyze the data. Click [here](https://github.com/Xan
 
 ### Housing Market Trends
 
-- The average median listing price in the top 100 metros has increased **48%** from July 2016 to January 2025.
-- **Boise** has expierenced the greatest increase in housing prices, followed by **Syracuse** and **Spokane**
+![alt text](https://public.tableau.com/app/profile/xander.kasternakis/viz/HousingMarketTrends_17415530705220/HousingData#1)
+
+- The average median listing price in the top 100 metros has increased by **48%** from July 2016 to January 2025.
+- **Boise, ID** saw the highest housing price growth among the top 100 metros, leading in **median listing price (+120%)** and **median price per square foot (+131%)**, while ranking 2nd in **average listing price growth (+134%)** since 2016. **Knoxville, TN, Syracuse, NY, and Spokane, WA** also experienced significant price growth, each ranking in the **top 5 for at least two of the three key housing price metrics**.
+- **Honolulu, HI** is the only metro among the top 100 to experience a **decline in median listing price (-1.6%)**, along with the **lowest average listing price growth (+0%)**, and **median price per square foot growth (+17%)**. **San Francisco, CA**, **Bridgeport, CT**, and the **Texas Triangle metros** also saw relatively modest housing price growth.
+- 
