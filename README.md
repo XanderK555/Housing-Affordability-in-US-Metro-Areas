@@ -12,7 +12,7 @@ This analysis aims to answer the following questions:
 
 1. How has the housing market changed in different metros over time?
 2. How has population growth affected the housing market?
-3. Are fluctuations in housing prices keeping up with rising income?
+3. Is per-capita income keeping up with fluctuating housing prices?
 4. Which metro areas and regions have experienced the most significant shifts in affordability?
 
 ## Introducing the Data
@@ -29,7 +29,7 @@ The population data used is from the U.S. Census and comtains annual estimates f
 
 Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per-capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
 
-## Key Insights
+## Insights Deep Dive
 
 SQL was used the setup and analyze the data. Click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/table_setup.sql) to view the SQL code for setting up the tables, and click [here](https://github.com/XanderK555/Housing-Affordability-in-US-Metro-Areas/blob/main/analysis.sql) to view the queries used to analyze the data.
 
@@ -71,10 +71,38 @@ This dashboard was made in Tableau, click [here](https://public.tableau.com/app/
 - **Toledo, OH**, and **Pittsburgh, PA** are the most affordable metros, with affordability indexes of **3.44**. Other metros in the **Midwest** round off the top 5 with affordability indexes below **4.0**.
 - The least affordable metro is **Los Angeles, CA**, with an affordability index of **14.77**. Every metro in **Southern California** ranks in the **top 5 least affordable metros**, all with affordability indexes above **11.0**. The only non-California metro in the top 5 is **Honolulu, HI**, with an index of **11.83**.
 - The affordability index of **Boise, ID** increased by **3.19**, the most in the U.S. with **Spokane, WA**, **Knoxville, TN**, and **Chattanooga, TN** becoming significantly less affordable as well. Conversely, **Honolulu, HI** has the greatest increase in affordability, with its affordability index **decreasing by 1.87**. The **San Francisco Bay Area** and the **Texas Triangle** also saw **significant decreases in their affordability indexes**.
-- In general, there is a **strong correlation between the growth of housing prices and the change in affordability index**, implying that **housing prices are more volatile than per-capita income**.
+- There is a **strong correlation** between the **growth of housing prices** and the **change in affordability index**, suggesting that **housing prices are more volatile than per-capita income** over time.
 
 ### Regional Shifts in Housing Affordability
+
+The dashboard presents housing affordability data with the metros grouped into five regions: **Northeast, South, Midwest, West, and Pacific**. The **Pacific** region has consistantly been the least affordable, followed by the **West**, while the **Midwest** remains the most affordable. 
 
 ![alt text](House-Trends-Region.png)
 
 This dashboard was made in Tableau, click [here](https://public.tableau.com/app/profile/xander.kasternakis/viz/RegionalShiftsinHousingAffordability/Dashboard4) to view the full interactive dashboard.
+
+- Most metros experiencing population decline tend to have either **very high or very low affordability indexes**, whereas metros with **moderate affordability indexes** are generally experiencing population growth. This trend can be further analyzed by examining the correlation between affordability and population growth across different regions.
+- Metros in the **Pacific** region, which have the highest affordability indexes, exhibit a **negative correlation with population growth**, suggesting that extreme housing costs may be driving residents away. In contrast, metros in all other regions show a **positive correlation**, indicating that population growth plays a role on a metro's affordability.
+
+## Key Findings
+
+1. Housing prices have risen nationwide, but growth varies by region.
+2. The housing supply has declined despite population growth.
+3. Affordability is declining, as housing prices outpace income growth.
+4. Population growth and hosuing affordability are closely linked.
+
+## Conclusion
+
+#### Implications
+
+This analysis underscores the ongoing affordability challenges in many U.S. metros, as housing prices continue to outpace income growth. Regions with the highest price increases are experiencing shifts in supply and demand, influencing migration patterns and broader economic trends. These findings can provide valuable insights for predicting future housing market trends and potential population growth across different regions.
+
+#### Limitations
+
+There are many external factors not mentioned that could have had an impact on the data or the findings, including COVID-19 disruptions, regional policy changes, or inacuracies in yearly population estimates.
+
+#### Potential Further Research
+
+- Examining rental markets
+- Breaking the data down by state, county, or ZIP code
+- Using additional metrics like poverty, unemployment, and crime rates, and more economic or demographic metrics
