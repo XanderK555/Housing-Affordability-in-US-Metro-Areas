@@ -89,7 +89,7 @@ This dashboard was made in Tableau, click [here](https://public.tableau.com/app/
 1. Housing prices have risen nationwide, but growth varies by region.
 2. The housing supply has declined despite population growth.
 3. Affordability is declining, as housing prices outpace income growth.
-4. Population growth and hosuing affordability are closely linked.
+4. Population growth and housing affordability are closely linked.
 
 ## Conclusion
 
