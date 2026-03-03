@@ -27,7 +27,7 @@ The population data used is from the U.S. Census and contains annual estimates f
 
 #### Income Data
 
-Income data used in this analysis is from the Federal Reserve Bank of St. Louis. the dataset includes per-capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
+Income data used in this analysis is from the Federal Reserve Bank of St. Louis. The dataset includes per-capita income in the top 100 U.S. metros updated annualy from 2016 to 2023. Click [here](https://fred.stlouisfed.org/release?rid=175&t=msa&ob=pv&od=desc) to view the data source.
 
 ## Insights Deep Dive
 
